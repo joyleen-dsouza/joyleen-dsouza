@@ -1,5 +1,7 @@
 <div id="intro">
+    
 <h1 align="center">Hi there, I'm Joyleen <img height="40" src="assets/hi.gif"></h1>
+
 </div>
 
 <div id="about">
