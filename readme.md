@@ -8,7 +8,7 @@
 
 💡 I'm a Computer Science Engineer
 
-👩‍💻 Working as Software Engineer at redBus
+👩‍💻 Working as Senior Software Engineer at HackerEarth
 
 💬 Suggest me suspense books to read
 
